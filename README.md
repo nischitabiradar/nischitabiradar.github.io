@@ -26,6 +26,7 @@ The dataset is quite comprehensive, and I can think of several ways this can be 
   policies.
 
 **DATA SCIENCE BOOK**
+
 *The Quest for Artificial Intelligence- A History of Ideas and Achievements*
 
 Link to the Book: [The Quest for Artificial Intelligence](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
